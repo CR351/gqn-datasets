@@ -74,6 +74,10 @@ batch size.
 Raw data files referred to in this document are available to download
 [here](https://console.cloud.google.com/storage/gqn-dataset).
 
+```
+gsutil cp -r gs://gqn-dataset ./
+```
+
 
 ### Notes
 
